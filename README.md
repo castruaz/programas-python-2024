@@ -4,12 +4,7 @@ Carlos Hector Castaneda Ramirez
 castr@uaz.edu.mx
 
 ## Actividad 1
-- Programa 1
-- Programa 2
-
-## Actividad 2
-- Programa 3
-- Programa 4
-
-## Actividad 3
-- Programa 5
+- p01-hola-mundo
+- p02-area-circulo
+- p03-area-triangulo
+- p04-paga-trabajador
