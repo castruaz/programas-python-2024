@@ -1,6 +1,6 @@
 # Programas en Python de la materia de Computacion Aplicada
 
-Carlos Castaneda Ramirez
+Carlos Hector Castaneda Ramirez
 castr@uaz.edu.mx
 
 ## Actividad 1
