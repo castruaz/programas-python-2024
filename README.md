@@ -15,3 +15,21 @@ castr@uaz.edu.mx
 - p06-opeeraciones-matematicas
 - p07-funciones-trigonometricas
 - p08-dividir-cifras
+
+## Tarea 1
+
+- p09, p10, p11, p12, p13, p14
+
+## Actividad 3
+- p15-verificar-numero
+- p16-verificar-suma
+- p17-convertir-temperatura
+- p18-paga-trabajador
+
+## Actividad 4
+
+- p19-verificar-suma
+- p20-ley-newton
+- p21-aceptar-estudiante
+- p21-aceptar-estudiante-v2
+- p22-tipo-angulo
